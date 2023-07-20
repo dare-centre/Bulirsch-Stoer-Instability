@@ -1,4 +1,4 @@
-# Bulirsch-Stoer-Instability(https://github.com/tstenborg/Bulirsch-Stoer-Instability)
+# [Bulirsch-Stoer-Instability](https://github.com/tstenborg/Bulirsch-Stoer-Instability)
 
 Bulirsch-Stoer instability in ORSA visualised with Java Plotly.
 
